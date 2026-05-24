@@ -1,9 +1,3 @@
-Got it — you want a **Tic Tac Toe README file in the same professional demo style** (like Stopwatch app).
-
-Here is your **ready-to-use README.md for Tic Tac Toe project** 👇
-
----
-
 # 🎮 Tic Tac Toe (React + Vite)
 
 A modern, interactive Tic Tac Toe game built using **React and Vite**.
@@ -99,7 +93,6 @@ npm run build
 * AI opponent (easy / medium / hard) 🤖
 * Win line animation ✨
 * Score tracking system 📊
-* Sound effects 🔊
 * Dark / neon theme toggle 🌙
 
 ---
