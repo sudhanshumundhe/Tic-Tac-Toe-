@@ -1,16 +1,111 @@
-# React + Vite
+Got it — you want a **Tic Tac Toe README file in the same professional demo style** (like Stopwatch app).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is your **ready-to-use README.md for Tic Tac Toe project** 👇
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 🎮 Tic Tac Toe (React + Vite)
 
-## React Compiler
+A modern, interactive Tic Tac Toe game built using **React and Vite**.
+Designed with a clean, responsive, and stylish UI for smooth gameplay experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 Live Link: https://game-tictactoes.netlify.app/
+
+---
+
+## 📸 Features
+
+✔ 3x3 interactive game board
+✔ Two-player turn system (X & O)
+✔ Winner detection logic
+✔ Draw detection system
+✔ Reset game functionality
+✔ Clean modern UI design
+✔ Smooth hover & click animations
+✔ Fully responsive (mobile + desktop)
+
+---
+
+## 🛠️ Tech Stack
+
+* React JS
+* Vite
+* JavaScript (ES6+)
+* CSS3 (Modern UI Styling)
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│── App.jsx
+│── App.css
+│── main.jsx
+│── index.css
+│
+public/
+│── index.html
+│
+package.json
+vite.config.js
+README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/your-username/tic-tac-toe-app.git
+```
+
+### 2️⃣ Move into project folder
+
+```bash
+cd tic-tac-toe-app
+```
+
+### 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Run development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 💡 Future Improvements
+
+* AI opponent (easy / medium / hard) 🤖
+* Win line animation ✨
+* Score tracking system 📊
+* Sound effects 🔊
+* Dark / neon theme toggle 🌙
+
+---
+
+## 👨‍💻 Author
+
+Sudhanshu Mundhe
+
+
